@@ -236,8 +236,8 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/PinkCandyDev/AMOLED-anime-theme/main/Stairs.png",
-    "blur": 0.6,
-    "alpha": 1.0,
+    "blur": 0.0,
+    "alpha": 0.8,
     "size": "cover",
     "position": "center"
   },
@@ -246,6 +246,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2025-10-06",
+  "createdAt": "2025-10-07",
   "source": "local"
 }
